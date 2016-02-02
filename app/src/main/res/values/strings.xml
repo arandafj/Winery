@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Baccus</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="wine_image_description">Imagen que representa a un vino</string>
+    <string name="reload">Recargar</string>
+    <string name="choose_option">Elige una opción</string>
+    <string name="choose_an_option">Elige una opción</string>
+    <string name="fit">Ajustada</string>
+    <string name="center">Centrada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <string name="title_activity_winery">Baccus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Cargando...</string>
+</resources>
